@@ -25,7 +25,7 @@ SECRET_KEY = '7x+(24+rr^223ykoigz^=n@fs-cbrj+!1cs#^*ff(6xz4h0!6k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["http://django-example-django-hello-demo-1.apps.shared.na.openshift.opentlc.com/"]
+ALLOWED_HOSTS = ['104.32.167.137','172.30.93.162','127.0.0.1', 'localhost']
 
 
 # Application definition
